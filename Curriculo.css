@@ -94,14 +94,14 @@
   }
 #botao1{
     position: left;
-    display: inline;
+    display: block;
     width: 25px;
     height: 50px;
     color: rgb(160, 11, 11);
 }
 #botao2{
     position: right;
-    display: inline;
+    display: block;
     width: 25px;
     height: 50px;
     color: rgb(160, 11, 11);
