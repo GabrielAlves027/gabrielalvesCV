@@ -93,13 +93,15 @@
     font-family: 'Raleway', sans-serif;
   }
 #botao1{
-    position: right;
+    position: left;
+    display: inline;
     width: 25px;
     height: 50px;
     color: rgb(160, 11, 11);
 }
 #botao2{
-    position: center;
+    position: right;
+    display: inline;
     width: 25px;
     height: 50px;
     color: rgb(160, 11, 11);
